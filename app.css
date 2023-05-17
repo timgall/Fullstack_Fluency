@@ -1,0 +1,12 @@
+.body {
+  display: flex;
+}
+.head {
+  display: block;
+}
+.footer {
+  display: block;
+}
+.background {
+  display: contents;
+}
